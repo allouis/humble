@@ -1,0 +1,26 @@
+{
+  "name": "humble",
+  "version": "0.0.0",
+  "description": "Unopinionated, lightweight & fast framework ",
+  "main": "humble.js",
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/allouis/humble.git"
+  },
+  "keywords": [
+    "mvc",
+    "framework",
+    "todo",
+    "humble",
+    "humble.js",
+    "mixin"
+  ],
+  "author": "Fabien O'Carroll",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/allouis/humble/issues"
+  }
+}
