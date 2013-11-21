@@ -22,5 +22,8 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/allouis/humble/issues"
+  },
+  "dependencies": {
+    "minivents": "~1.0.1"
   }
 }
